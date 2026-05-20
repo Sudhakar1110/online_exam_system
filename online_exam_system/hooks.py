@@ -1,0 +1,6 @@
+app_name = "online_exam_system"
+app_title = "Online Exam System"
+app_publisher = "Sudhakar"
+app_description = "Online Examination Management App"
+app_email = "admin@example.com"
+app_license = "MIT"
